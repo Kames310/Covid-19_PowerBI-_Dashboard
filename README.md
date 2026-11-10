@@ -1,50 +1,69 @@
-# Covid-19_PowerBI-_Dashboard
-COVID-19 Data Analysis Dashboard
+# COVID-19 Data Analysis Dashboard
 
 # Project Overview
 
-This project involves analysing COVID-19 data and building an interactive dashboard using Microsoft Power BI. The dashboard presents key pandemic statistics and trends through visual reports.
+Project Overview
+
+This project focuses on analysing global COVID-19 data using Microsoft Power BI. The interactive dashboard explores COVID-19 cases, deaths, vaccination statistics and trends across different countries and over time.
+
+The objective is to present key pandemic statistics through interactive visualisations and enable comparisons between countries and time periods.
 
 Tools & Technologies
 
 Microsoft Power BI
 
-Power Query
-
 DAX
+
+Data Modelling
 
 Data Visualisation
 
-Dashboard Preview
+Power Query
 
+Data Source
 
+Our World in Data – COVID-19 dataset.
 
-Key Features
+Dashboard Features
 
-Interactive data visualisations
+Page 1: Global COVID-19 Overview
 
-COVID-19 statistics and trend analysis
+Key performance indicators covering total cases, total deaths, case fatality rate and vaccinations.
 
-Summary metrics and visual reporting
+New COVID-19 cases and 7-day average case trends.
 
-Exploration of COVID-19 data through dashboard filters (if implemented)
+Country-level comparison of total cases.
+
+Interactive country and date filters.
+
+Summary table presenting COVID-19 statistics by location.
+
+Page 2: Country Comparisons and Trends
+
+Comparison of total COVID-19 cases across countries.
+
+Case fatality rate comparisons.
+
+Time-based analysis using year, quarter, month and day.
+
+Key Skills Demonstrated
+
+Exploring and analysing real-world datasets.
+
+Developing interactive Power BI dashboards.
+
+Creating DAX measures for analytical reporting.
+
+Data modelling and time-based analysis.
+
+Presenting data through charts, KPIs and summary tables.
 
 Project Files
 
-COVID_Dashboard.pbix – Power BI report file.
+covid_data.pbix – Power BI dashboard file.
 
-Screenshots/ – Dashboard screenshots.
-
-Skills Demonstrated
-
-Data analysis and exploration
-
-Data transformation using Power Query
-
-Dashboard development and visualisation
-
-Presenting data insights in an accessible format
+Screenshots - Dashboard screenshots.
 
 Project Purpose
 
-This project demonstrates practical experience in using Power BI to transform data into interactive visual reports and communicate insights through data visualisation.
+This project demonstrates practical experience in transforming COVID-19 data into interactive reports and presenting meaningful statistical comparisons using Power BI.
